@@ -1,0 +1,71 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 617" width="900" height="617" role="img"><title>Why I love this: cryptography because I love solving puzzles and recognizing patterns; blockchain because it's a hard, important problem and decentralization creates trust; security because it fuses decentralization, cryptography and networks; networks because they're the foundation of the internet; build and lead because I'm a natural team leader (90% of university projects led to full marks).</title>
+<defs>
+  <filter id="glow" x="-5%" y="-5%" width="110%" height="110%">
+    <feGaussianBlur stdDeviation="1.5" result="b"/>
+    <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+  </filter>
+  <pattern id="scan" width="4" height="4" patternUnits="userSpaceOnUse">
+    <rect width="4" height="1.6" fill="#000" opacity=".35"/>
+  </pattern>
+  <radialGradient id="vig" cx="50%" cy="50%" r="75%">
+    <stop offset="60%" stop-color="#000" stop-opacity="0"/>
+    <stop offset="100%" stop-color="#000" stop-opacity=".7"/>
+  </radialGradient>
+  <radialGradient id="tint" cx="50%" cy="40%" r="70%">
+    <stop offset="0%" stop-color="#39ff14" stop-opacity=".07"/>
+    <stop offset="100%" stop-color="#39ff14" stop-opacity="0"/>
+  </radialGradient>
+  <linearGradient id="beam" x1="0" y1="0" x2="0" y2="1">
+    <stop offset="0%" stop-color="#39ff14" stop-opacity="0"/>
+    <stop offset="50%" stop-color="#39ff14" stop-opacity=".09"/>
+    <stop offset="100%" stop-color="#39ff14" stop-opacity="0"/>
+  </linearGradient>
+</defs>
+<style>
+  text{font-family:'Courier New','DejaVu Sans Mono','Liberation Mono',Consolas,monospace;font-size:14.5px;white-space:pre}
+  .b{fill:#39ff14;font-weight:bold} .m{fill:#1fe03a} .d{fill:#14873a}
+  .p{fill:#39ff14} .t{fill:#14873a;font-size:13px}
+  .crt{animation:flick 6s infinite}
+  @keyframes flick{0%,100%{opacity:1}47%{opacity:1}48%{opacity:.93}49%{opacity:1}82%{opacity:.97}}
+  .cur{animation:blink 1.06s steps(1) infinite}
+  @keyframes blink{50%{opacity:0}}
+  .beam{animation:roll 7s linear infinite}
+  @keyframes roll{from{transform:translateY(-120px)}to{transform:translateY(var(--h))}}
+  
+</style>
+<rect width="900" height="617" rx="14" fill="#030703"/>
+<rect x="1" y="1" width="898" height="615" rx="13" fill="#061006" stroke="#39ff14" stroke-opacity=".35"/>
+<rect x="1" y="1" width="898" height="38" rx="13" fill="#0a1a0a"/>
+<rect x="1" y="26" width="898" height="12" fill="#0a1a0a"/>
+<line x1="1" y1="38" x2="899" y2="38" stroke="#39ff14" stroke-opacity=".25"/>
+<circle cx="24" cy="19.0" r="5.5" fill="#39ff14"/><circle cx="44" cy="19.0" r="5.5" fill="#1fe03a" opacity=".6"/><circle cx="64" cy="19.0" r="5.5" fill="#14873a" opacity=".6"/>
+<text x="450.0" y="23.5" text-anchor="middle" class="t">~/why — less</text>
+<g class="crt" filter="url(#glow)">
+<text x="34.0" y="72" class="p">bassam@uqu:~$ cat why_i_love_this.md</text>
+<text x="34.0" y="106" class="b">[01] WHY CRYPTOGRAPHY?</text>
+<text x="68.8" y="129" class="m">I'm genuinely passionate about encryption because I love solving puzzles. Every time I</text>
+<text x="68.8" y="152" class="m">crack one, I feel my brain getting faster at recognizing patterns, and cryptography is</text>
+<text x="68.8" y="175" class="m">the ultimate puzzle.</text>
+<text x="34.0" y="209" class="b">[02] WHY BLOCKCHAIN?</text>
+<text x="68.8" y="232" class="m">Because it's a hard problem that really matters to people. Its decentralization gives it</text>
+<text x="68.8" y="255" class="m">a strange, almost paradoxical kind of trust: no central authority, yet records you can</text>
+<text x="68.8" y="278" class="m">rely on as immutable truth.</text>
+<text x="34.0" y="312" class="b">[03] WHY SECURITY?</text>
+<text x="68.8" y="335" class="m">Security is where everything meets. It fuses decentralization, cryptography, and</text>
+<text x="68.8" y="358" class="m">networks, and almost every technology depends on it. To me, security is the hybrid of all</text>
+<text x="68.8" y="381" class="m">technologies working together.</text>
+<text x="34.0" y="415" class="b">[04] WHY NETWORKS?</text>
+<text x="68.8" y="438" class="m">Networks are the foundation of everything, the backbone of the internet itself. If you</text>
+<text x="68.8" y="461" class="m">understand how packets move, you understand how the modern world talks.</text>
+<text x="34.0" y="495" class="b">[05] WHY BUILD &amp; LEAD?</text>
+<text x="68.8" y="518" class="m">I've loved being the project manager and team lead since my early university days. I</text>
+<text x="68.8" y="541" class="m">enjoy running teams in a coordinated, organized way, and I've led 90% of my university</text>
+<text x="68.8" y="564" class="m">projects to full marks. Leadership isn't a role I take, it's who I am.</text>
+<text x="34" y="591" class="p">bassam@uqu:~$</text>
+<rect class="cur" x="155.8" y="578" width="8.7" height="16" fill="#39ff14"/>
+</g>
+<rect y="38" width="900" height="579" fill="url(#tint)"/>
+<rect class="beam" style="--h:617px" width="900" height="120" fill="url(#beam)"/>
+<rect width="900" height="617" rx="14" fill="url(#scan)"/>
+<rect width="900" height="617" rx="14" fill="url(#vig)"/>
+</svg>
