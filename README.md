@@ -2,31 +2,15 @@
 
 <img src="./assets/hero.svg" width="100%" alt="Mr-MaxVX: B. M. Al-Dossary (Bassam Mohammed Al-Dossary), a.k.a. MAX. Systems Builder, Programming Language Enthusiast, Cybersecurity Obsessor, Network Nerd, Cryptography Enjoyer. Computer Science at Umm Al-Qura University, expected graduation 17 May 2028. Mission: bridging academia and engineering, where theory meets practice." />
 
-<a href="https://github.com/Mr-MaxVX"><img src="https://img.shields.io/badge/GitHub-Mr--MaxVX-39ff14?style=for-the-badge&logo=github&logoColor=39ff14&labelColor=030703" alt="GitHub: Mr-MaxVX" /></a>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Bassam_Dossary-39ff14?style=for-the-badge&logo=linkedin&logoColor=39ff14&labelColor=030703" alt="LinkedIn: Bassam Dossary" /></a>
+<a href="https://github.com/Mr-MaxVX"><img src="https://img.shields.io/badge/GitHub-Mr--MaxVX-030703?style=for-the-badge&logo=github&logoColor=030703&labelColor=39ff14" alt="GitHub: Mr-MaxVX" /></a>
 <br/>
-<img src="https://img.shields.io/badge/STATUS-ONLINE-39ff14?style=for-the-badge&labelColor=030703" alt="status online" />
-<img src="https://img.shields.io/badge/GRADUATING-MAY_2028-39ff14?style=for-the-badge&labelColor=030703" alt="Graduating May 2028" />
-<img src="https://komarev.com/ghpvc/?username=Mr-MaxVX&label=VISITORS&color=39ff14&style=for-the-badge&labelColor=030703" alt="profile visitors" />
+<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Bassam_Dossary-030703?style=for-the-badge&logo=linkedin&logoColor=030703&labelColor=39ff14" alt="LinkedIn: Bassam Dossary" /></a>
+<br/>
+<img src="https://img.shields.io/badge/STATUS-ONLINE-030703?style=for-the-badge&labelColor=39ff14" alt="Status: online" />
+<br/>
+<img src="https://img.shields.io/badge/GRADUATION-17_MAY_2028-030703?style=for-the-badge&labelColor=39ff14" alt="Graduation: 17 May 2028" />
 
-</div>
-
-<div align="center">
-
-<a href="#languages"><img src="https://img.shields.io/badge/01_LANGUAGES-030703?style=for-the-badge" alt="01_LANGUAGES" /></a>
-<a href="#why"><img src="https://img.shields.io/badge/02_WHY-030703?style=for-the-badge" alt="02_WHY" /></a>
-<a href="#builds"><img src="https://img.shields.io/badge/03_BUILDS-030703?style=for-the-badge" alt="03_BUILDS" /></a>
-<a href="#guardian"><img src="https://img.shields.io/badge/04_GUARDIAN-030703?style=for-the-badge" alt="04_GUARDIAN" /></a>
-<a href="#github"><img src="https://img.shields.io/badge/05_GITHUB-030703?style=for-the-badge" alt="05_GITHUB" /></a>
-
-</div>
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<a name="languages"></a>
-<img src="./assets/stack.svg" width="100%" alt="Languages: Java (JavaFX), Python, C, MIPS Assembly, SQL (MySQL), JavaScript, HTML/CSS; currently mastering C++ and Rust. Spoken: Arabic (native), English (fluent), Russian (learning). Tools: Wireshark, Nmap, Cisco Packet Tracer, Linux, MySQL, Git and GitHub." />
-
-<div align="center">
+<br/><br/>
 
 <img src="https://img.shields.io/badge/Java-39ff14?style=for-the-badge&logo=openjdk&logoColor=030703" alt="Java" />
 <img src="https://img.shields.io/badge/Python-39ff14?style=for-the-badge&logo=python&logoColor=030703" alt="Python" />
@@ -34,6 +18,7 @@
 <img src="https://img.shields.io/badge/C++-39ff14?style=for-the-badge&logo=cplusplus&logoColor=030703" alt="C++" />
 <img src="https://img.shields.io/badge/Rust-39ff14?style=for-the-badge&logo=rust&logoColor=030703" alt="Rust" />
 <img src="https://img.shields.io/badge/MIPS_ASM-39ff14?style=for-the-badge&logo=gnu&logoColor=030703" alt="MIPS Assembly" />
+<img src="https://img.shields.io/badge/SQL-39ff14?style=for-the-badge&logo=mysql&logoColor=030703" alt="SQL" />
 <img src="https://img.shields.io/badge/JavaScript-39ff14?style=for-the-badge&logo=javascript&logoColor=030703" alt="JavaScript" />
 <img src="https://img.shields.io/badge/HTML5-39ff14?style=for-the-badge&logo=html5&logoColor=030703" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS-39ff14?style=for-the-badge&logo=css&logoColor=030703" alt="CSS" />
@@ -50,22 +35,6 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
-<a name="why"></a>
-<img src="./assets/why.svg" width="100%" alt="Why I love this: cryptography (I love solving puzzles, it sharpens pattern recognition); blockchain (a hard, important problem where decentralization creates trust); security (the fusion of decentralization, cryptography and networks); networks (the foundation of the internet); build and lead (a natural team leader, 90% of university projects led to full marks)." />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<a name="builds"></a>
-<img src="./assets/builds.svg" width="100%" alt="Featured builds: Ghost Ascent (C++ / OpenGL), a custom 2D/3D graphics pipeline and game build; AlbionSeller (Hybrid), a market tracking and trading utility tool; JavaJam Coffee (Java / Native), a full-featured desktop application build." />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<a name="guardian"></a>
-<img src="./assets/guardian.svg" width="100%" alt="Pixel-art green skeleton knight with a sword: the guardian of the Mr-MaxVX profile." />
-
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<a name="github"></a>
 <img src="./assets/activity.svg" width="100%" alt="GitHub activity" />
 
 <div align="center">
@@ -78,8 +47,8 @@
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mr-MaxVX/Mr-MaxVX/output/github-snake-dark.svg" />
     <img src="https://raw.githubusercontent.com/Mr-MaxVX/Mr-MaxVX/output/github-snake.svg" width="100%" alt="contribution snake" />
   </picture>
+  <br/><br/>
+  <a href="https://github.com/Mr-MaxVX?tab=repositories"><img src="https://img.shields.io/badge/%3E_BROWSE_ALL_MY_REPOS-030703?style=for-the-badge&logo=github&logoColor=39ff14" alt="Browse all my repositories" /></a>
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<img src="./assets/footer.svg" width="100%" alt="Always building. Open to collaborating on systems, security, and decentralized tools." />
+<img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by. Always building, open to collaborating on systems, security and decentralized tools." />
