@@ -51,4 +51,8 @@
   <a href="https://github.com/Mr-MaxVX?tab=repositories"><img src="https://img.shields.io/badge/%3E_BROWSE_ALL_MY_REPOS-030703?style=for-the-badge&logo=github&logoColor=39ff14" alt="Browse all my repositories" /></a>
 </div>
 
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<img src="./assets/guardian.svg" width="100%" alt="Animated pixel-art lich king with a glowing spellbook, casting curses at ghosts that appear from random corners every 3 to 8 seconds." />
+
 <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by. Always building, open to collaborating on systems, security and decentralized tools." />
