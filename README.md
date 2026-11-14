@@ -1,7 +1,18 @@
+<!-- ============================================================
+     Mr-MaxVX — GitHub profile README (retro green terminal theme)
+     Order: who I am  →  showpiece  →  GitHub activity  →  thanks
+     Comments like this one are hidden on the profile page.
+     ============================================================ -->
+
+<!-- 1) HERO: name first, so every visitor knows who I am immediately.
+        Animated terminal: MR-MAXVX, B. M. AL-DOSSARY, a.k.a. MAX, titles,
+        university, graduation date and mission. File: assets/hero.svg -->
 <div align="center">
 
 <img src="./assets/hero.svg" width="100%" alt="Mr-MaxVX: B. M. Al-Dossary (Bassam Mohammed Al-Dossary), a.k.a. MAX. Systems Builder, Programming Language Enthusiast, Cybersecurity Obsessor, Network Nerd, Cryptography Enjoyer. Computer Science at Umm Al-Qura University, expected graduation 17 May 2028. Mission: bridging academia and engineering, where theory meets practice." />
 
+<!-- 2) LINKS & STATUS: one badge per line (green label, dark value).
+        To change LinkedIn, edit the href on the LinkedIn line. -->
 <a href="https://github.com/Mr-MaxVX"><img src="https://img.shields.io/badge/GitHub-Mr--MaxVX-030703?style=for-the-badge&logo=github&logoColor=030703&labelColor=39ff14" alt="GitHub: Mr-MaxVX" /></a>
 <br/>
 <a href="https://www.linkedin.com/in/bassam-dossary-014b8a285/"><img src="https://img.shields.io/badge/LinkedIn-Bassam_Dossary-030703?style=for-the-badge&logo=linkedin&logoColor=030703&labelColor=39ff14" alt="LinkedIn: Bassam Dossary" /></a>
@@ -12,6 +23,7 @@
 
 <br/><br/>
 
+<!-- 3) PROGRAMMING LANGUAGES: green row -->
 <img src="https://img.shields.io/badge/Java-39ff14?style=for-the-badge&logo=openjdk&logoColor=030703" alt="Java" />
 <img src="https://img.shields.io/badge/Python-39ff14?style=for-the-badge&logo=python&logoColor=030703" alt="Python" />
 <img src="https://img.shields.io/badge/C-39ff14?style=for-the-badge&logo=c&logoColor=030703" alt="C" />
@@ -23,6 +35,7 @@
 <img src="https://img.shields.io/badge/HTML5-39ff14?style=for-the-badge&logo=html5&logoColor=030703" alt="HTML5" />
 <img src="https://img.shields.io/badge/CSS-39ff14?style=for-the-badge&logo=css&logoColor=030703" alt="CSS" />
 <br/>
+<!-- 4) TOOLS: dark row -->
 <img src="https://img.shields.io/badge/Linux-030703?style=for-the-badge&logo=linux&logoColor=39ff14" alt="Linux" />
 <img src="https://img.shields.io/badge/MySQL-030703?style=for-the-badge&logo=mysql&logoColor=39ff14" alt="MySQL" />
 <img src="https://img.shields.io/badge/Wireshark-030703?style=for-the-badge&logo=wireshark&logoColor=39ff14" alt="Wireshark" />
@@ -35,6 +48,15 @@
 
 <img src="./assets/divider.svg" width="100%" alt="" />
 
+<!-- 5) SHOWPIECE: the Lich King. Placed right after "who I am" so it is
+        seen on the first scroll, without pushing the name down.
+        Ghosts spawn every 3-8 s from random corners. File: assets/guardian.svg -->
+<img src="./assets/guardian.svg" width="100%" alt="Animated pixel-art lich king with a glowing spellbook, casting curses at ghosts that appear from random corners every 3 to 8 seconds." />
+
+<img src="./assets/divider.svg" width="100%" alt="" />
+
+<!-- 6) GITHUB ACTIVITY: stats, top languages, streak, contribution snake,
+        and a button to all repos. The snake needs .github/workflows/snake.yml -->
 <img src="./assets/activity.svg" width="100%" alt="GitHub activity" />
 
 <div align="center">
@@ -51,8 +73,5 @@
   <a href="https://github.com/Mr-MaxVX?tab=repositories"><img src="https://img.shields.io/badge/%3E_BROWSE_ALL_MY_REPOS-030703?style=for-the-badge&logo=github&logoColor=39ff14" alt="Browse all my repositories" /></a>
 </div>
 
-<img src="./assets/divider.svg" width="100%" alt="" />
-
-<img src="./assets/guardian.svg" width="100%" alt="Animated pixel-art lich king with a glowing spellbook, casting curses at ghosts that appear from random corners every 3 to 8 seconds." />
-
+<!-- 7) FOOTER: thanks for visiting -->
 <img src="./assets/footer.svg" width="100%" alt="Thanks for stopping by. Always building, open to collaborating on systems, security and decentralized tools." />
