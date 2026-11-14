@@ -4,7 +4,7 @@
 
 <a href="https://github.com/Mr-MaxVX"><img src="https://img.shields.io/badge/GitHub-Mr--MaxVX-030703?style=for-the-badge&logo=github&logoColor=030703&labelColor=39ff14" alt="GitHub: Mr-MaxVX" /></a>
 <br/>
-<a href="https://linkedin.com"><img src="https://img.shields.io/badge/LinkedIn-Bassam_Dossary-030703?style=for-the-badge&logo=linkedin&logoColor=030703&labelColor=39ff14" alt="LinkedIn: Bassam Dossary" /></a>
+<a href="https://linkedin.com/in/bassam-dossary-014b8a285/"><img src="https://img.shields.io/badge/LinkedIn-Bassam_Dossary-030703?style=for-the-badge&logo=linkedin&logoColor=030703&labelColor=39ff14" alt="LinkedIn: Bassam Dossary" /></a>
 <br/>
 <img src="https://img.shields.io/badge/STATUS-ONLINE-030703?style=for-the-badge&labelColor=39ff14" alt="Status: online" />
 <br/>
