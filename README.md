@@ -60,8 +60,6 @@
 <img src="./assets/activity.svg" width="100%" alt="GitHub activity" />
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mr-MaxVX&show_icons=true&hide_border=true&bg_color=030703&title_color=39ff14&text_color=1fe03a&icon_color=39ff14&ring_color=39ff14&border_radius=10" height="165" alt="GitHub stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mr-MaxVX&layout=compact&hide_border=true&bg_color=030703&title_color=39ff14&text_color=1fe03a&border_radius=10" height="165" alt="Top languages" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=Mr-MaxVX&hide_border=true&background=030703&ring=39ff14&fire=39ff14&currStreakLabel=39ff14&sideLabels=1fe03a&dates=14873a&currStreakNum=39ff14&sideNums=39ff14&stroke=14873a&border_radius=10" width="100%" alt="GitHub streak" />
   <br/><br/>
